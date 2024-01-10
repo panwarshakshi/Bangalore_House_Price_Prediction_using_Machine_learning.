@@ -12,3 +12,4 @@ Pandas, NumPy, Scikit-Learn
 
 ![Screenshot (16)](https://github.com/panwarshakshi/Bangalore_House_Price_Prediction_using_Machine_learning./assets/145038031/d096a6ab-6c7b-4c64-91d5-dc82edb982f5)
 ![Screenshot (15)](https://github.com/panwarshakshi/Bangalore_House_Price_Prediction_using_Machine_learning./assets/145038031/10fa4597-2125-420f-b9fe-bec87098e359)
+![Uploading Screenshot (17).png…]()
